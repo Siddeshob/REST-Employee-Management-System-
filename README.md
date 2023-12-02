@@ -18,9 +18,13 @@ Experience CRUD operations directly through well-crafted URLs, thanks to smart a
 👉 Example:
 
 Create:  POST   :- http://localhost:8080/api/emp
+
 Read:    GET    :- http://localhost:8080/api/emp/{id}
+
 Update:  PUT    :- http://localhost:8080/api/emp/{id}
+
 Delete:  DELETE :- http://localhost:8080/api/emp/{id}
+
 
 GET :-
 ![GET](https://github.com/Siddeshob/REST-Employee-Management-System-/assets/130699981/8b52ec40-55f6-4dc1-82bf-d31de5dc66ad)
